@@ -1,10 +1,18 @@
-# Hi there, I'm Yeabsira Haile 👋
-## Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Yeabsira Haile</h1>
+<h3 align="center">I'm Yeabsira Haile, a Full-Stack Developer specializing in Front-End Web Development. Based in Ethiopia</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YeabsiraHaile&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeabsirahaile&label=Profile%20views&color=0e75b6&style=flat" alt="yeabsirahaile" /> </p>
 
-### 🚀 About Me
-I'm Yeabsira Haile, a Full-Stack Developer specializing in Front-End Web Development. With expertise in UI/UX Design and Backend Development, I create user-friendly interfaces and robust web applications. Let's bring your digital vision to life.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeabsirahaile" alt="yeabsirahaile" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [yeab.dev](yeab.dev)
+
+- 💬 Ask me about **React, Next.Js, Node.Js**
+
+- 📫 How to reach me **hello@yeab.dev**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 ### 🛠️ Services
 - **Front-End Web Development:** Crafting user interfaces for seamless website interaction.
